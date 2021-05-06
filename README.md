@@ -1,2 +1,2 @@
 # devaria-python
- Aulas de Python
+ Aulas Python
