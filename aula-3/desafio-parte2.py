@@ -8,6 +8,8 @@ from classes.Mamifero import Mamifero
 from classes.Peixe import Peixe
 from classes.Reptil import Reptil
 
+import abc
+
 if __name__ == '__main__':
     lista_animais = [
         Mamifero('Leão', 4, False, False),
