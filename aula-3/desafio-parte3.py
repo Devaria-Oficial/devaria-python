@@ -13,6 +13,7 @@ if __name__ == '__main__':
         {'nome': 'Sandália', 'preco_unidade': 100},
         {'nome': 'Calça', 'preco_unidade': 120}
     ]
+
     produtos_selecionados = []
 
     while True:
